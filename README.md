@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @benjiboi
-- 👀 I’m interested in hosting my own webpage, where I'll be showcasing engineering/programming
-- 🌱 I’m currently learning javascripts to do just that
-- 💞️ I’m looking to collaborate on nothing really, I'm interested in simulation software, but I have nowhere near the patience and/or knowhow to do any meaningful collaborations
-- 📫 How to reach me I don
+- I've been picking up coding after a year of being out of the game. I know javascript, c#, and rust, as well as being passingly familiar with a couple other.
+- 💞️ I’m looking to collaborate on Rust based solutions, I'm also interested in simulation software. I've mostly worked alone, but down for most stuff.
+- 📫 How to reach me: Benjaminkeiding@gmail.com
 
 <!---
 benjiboi/benjiboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
